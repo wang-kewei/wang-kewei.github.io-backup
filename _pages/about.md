@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<!--**This homepage is under construction.**-->
+**This homepage is under construction.**
 
 About me
 ------
-I'm Kewei Wang (王可为), a fourth-year undergraduate student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) now.
+I'm Kewei Wang (王可为), a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is Prof. Georg Stadler.
 
 News
 ------
-**2024.3** Decided to go to NYU Courant for PhD. 
+<!-- **2024.3** Decided to go to NYU Courant for PhD.  -->
 
 <!--
 For more info

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kewei Wang"
   avatar           : "profile.png"
-  bio              : "Fourth-year undergraduate student at Peking University, majoring in computational mathematics"
-  location         : "Beijing, China"
+  bio              : "Second-year PhD student at Courant Institute, NYU"
+  location         : "New York, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=qPCpNmYAAAAJ"
-  email            : "wangkw@stu.pku.edu.cn"
+  email            : "kw3645@nyu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
