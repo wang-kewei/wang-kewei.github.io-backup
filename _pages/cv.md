@@ -11,4 +11,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV will be put [here](https://wang-kewei.github.io/files/CV.pdf) when ready.
+Here is my [CV](https://wang-kewei.github.io/files/CV.pdf).

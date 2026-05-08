@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kewei Wang's Homepage"
+title: "Kewei Wang's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**This homepage is under construction.**
+**This website is under construction.**
 
 About me
 ------
-I'm Kewei Wang (王可为), a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is Prof. Georg Stadler.
+I'm Kewei Wang (王可为), a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is [Prof. Georg Stadler](https://math.nyu.edu/~stadler/).
 
 News
 ------
