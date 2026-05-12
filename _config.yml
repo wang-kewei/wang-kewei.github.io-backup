@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Kewei Wang (王可为)"
+name                     : &name "Kewei Wang"
 description              : &description "personal description"
 url                      : https://wang-kewei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kewei Wang"
+  name             : "Kewei Wang (王可为)"
   avatar           : "profile.png"
   bio              : "Second-year PhD student at Courant Institute, NYU"
   location         : #"New York, New York"#
