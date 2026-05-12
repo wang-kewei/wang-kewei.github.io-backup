@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ------
-I'm Kewei Wang (王可为), a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is [Prof. Georg Stadler](https://math.nyu.edu/~stadler/).
+I'm Kewei Wang, a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is [Prof. Georg Stadler](https://math.nyu.edu/~stadler/).
 
 News
 ------
