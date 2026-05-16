@@ -23,5 +23,16 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # gem 'hawkins'
 end
+
+# gem "csv"
+# gem "bigdecimal"
+
+gem "tzinfo-data", platforms: [:windows]
+
+# gem "liquid", ">= 4.0.4"
+
+gem "webrick", "~> 1.7.0"
+
+gem "logger", "< 1.6.0"

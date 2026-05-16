@@ -11,4 +11,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](https://wang-kewei.github.io/files/CV.pdf).
+Here is my [CV](/files/CV.pdf).
